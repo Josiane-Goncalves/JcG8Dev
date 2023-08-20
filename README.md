@@ -44,8 +44,6 @@
   </li><br>
   <li>🦕 Curiosa por natureza, tenho um carinho especial por dinossauros - aquelas criaturas misteriosas que um dia governaram a Terra, completam minha personalidade curiosa e exploratória.
   </li><br>
-  <li>Estou animada para conectar com a comunidade do GitHub e contribuir para projetos que alinhem minha paixão por tecnologia, saúde e criatividade. Vamos explorar e aprender juntos nessa jornada emocionante!
-  </li>
 </ul>
 
 <div align="center">
