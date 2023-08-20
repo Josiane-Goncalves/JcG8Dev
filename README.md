@@ -38,7 +38,7 @@
   </li><br>
   <li>📚 Devoradora de livros, amante de séries e documentários, estou sempre em busca de novos conhecimentos. A natureza é minha terapia, e a tecnologia é minha ferramenta para criar um mundo melhor.
   </li><br>
-  <li>🔮 Aluna do Reservatório de Dopamina, adoro organização e aprendi a usar o Notion para facilitar minha rotina diária de estudos, vida pessoal e profissional.
+  <li>🎈 Aluna do Reservatório de Dopamina 🎈, adoro organização e aprendi a usar o Notion para facilitar minha rotina diária de estudos, vida pessoal e profissional.
   </li><br>
   <li>🎮 Do código ao controle, sou uma jogadora dedicada que encontra alegria em desafios eletrônicos.
   </li><br>
