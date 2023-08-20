@@ -67,7 +67,5 @@
 <br/><br/><br/><br/>
  
 <div align="center">
-
-  ![Snake animation](https://github.com/JcG8Dev/JcG8Dev/blob/output/github-contribution-grid-snake.svg)
-  
+![Snake animation](https://github.com/JcG8Dev/JcG8Dev/blob/output/github-contribution-grid-snake.svg)
 </div>
