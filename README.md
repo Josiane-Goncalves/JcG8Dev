@@ -24,15 +24,27 @@
 <ul align="left">
   <li>👋 Olá! Sou a Josy, uma entusiasta da área de saúde em busca de novos horizontes na tecnologia e desenvolvimento. Minha jornada começou como Técnico em Enfermagem, onde adquiri habilidades valiosas em cuidados de saúde e engenharia clínica.
   </li>
-  <li>🔧 Atualmente, estou trilhando um emocionante caminho de transição de carreira para o mundo do desenvolvimento. Estou mergulhando fundo no universo da programação, buscando criar soluções inovadoras que possam impactar positivamente a vida das pessoas.
+  <li>🔭 Atualmente estou em transição de carreira para o Desenvolvimento de Software Web backend, front-end ou full stack.
   </li>
-  <li>🌌 Além do meu fascínio pelo código, sou uma entusiasta da astronomia e uma ávida observadora das maravilhas do cosmos. Quando não estou imersa em linhas de código, você pode me encontrar explorando trilhas de bike, admirando os mistérios da física ou refletindo sobre questões filosóficas.
+  <li>🔮 Iniciei minha jornada de estudos transitando por diversas tecnologias, incluindo HTML, CSS e JavaScript para criação web, além de Node.js e React para desenvolvimento dinâmico. Também explorei o mundo do versionamento de código utilizando Git/GitHub, programação com Kotlin e a plataforma Android, e construção de interfaces responsivas com Bootstrap. Além disso, adquiri conhecimentos em áreas como Blockchain, Scrum, Design de Experiência do Usuário (UX), cibersegurança e programação em Java e Python.
   </li>
-  <li>📚 Adoro devorar livros de diversos gêneros e também sou uma amante de séries e documentários que expandem meus horizontes e conhecimentos. Minha paixão por dinossauros e meu amor pelo contato com a natureza completam minha personalidade curiosa e exploratória.
+  <li>🚀 Participei do Bootcamp sobre Nuvem AWS da Nexa Resources em parceria com a DIO e aprendi sobre os vários produtos de nuvem disponibilizados pela AWS e estou atualmente participando do Bootcamp Descubra a Nuvem AWS – LocalizaLabs.
   </li>
-  <li>🍳 Não me limito apenas ao digital - na cozinha, também sou uma entusiasta criativa, criando pratos deliciosos para satisfazer meu apetite por experimentação.
+  <li>Atualmente tenho me aprofundado no conhecimento sobre tecnologias Front-end.
   </li>
-  <li>🎮 E, claro, não poderia deixar de mencionar minha afinidade por tecnologia e video games. Sempre estou ansiosa para mergulhar em novos mundos virtuais e desafios eletrônicos.
+  <li>🌌 Minhas paixões vão desde as estrelas no céu até a física que rege nosso universo. Quando não estou codificando, estou explorando trilhas de bike ou me perdendo em pensamentos filosóficos.
+  </li>
+  <li>🍳 Não me limito apenas ao digital - na cozinha, também sou uma entusiasta criativa, criando pratos deliciosos.
+  </li>
+  <li>📚 Devoradora de livros, amante de séries e documentários, estou sempre em busca de novos conhecimentos. A natureza é minha terapia, e a tecnologia é minha ferramenta para criar um mundo melhor.
+  </li>
+  <li>🔮 Aluna do Reservatório de Dopamina, adoro organização e aprendi a usar o Notion para facilitar minha rotina diária de estudos, vida pessoal e profissional.
+  </li>
+  <li>🎮 Do código ao controle, sou uma jogadora dedicada que encontra alegria em desafios eletrônicos.
+  </li>
+  <li>🦕 Curiosa por natureza, tenho um carinho especial por dinossauros - aquelas criaturas misteriosas que um dia governaram a Terra, completam minha personalidade curiosa e exploratória.
+  </li>
+  <li>Estou animada para conectar com a comunidade do GitHub e contribuir para projetos que alinhem minha paixão por tecnologia, saúde e criatividade. Vamos explorar e aprender juntos nessa jornada emocionante!
   </li>
 </ul>
 
