@@ -23,27 +23,27 @@
 
 <ul align="left">
   <li>👋 Olá! Sou a Josy, uma entusiasta da área de saúde em busca de novos horizontes na tecnologia e desenvolvimento. Minha jornada começou como Técnico em Enfermagem, onde adquiri habilidades valiosas em cuidados de saúde e engenharia clínica.
-  </li>
+  </li><br>
   <li>🔭 Atualmente estou em transição de carreira para o Desenvolvimento de Software Web backend, front-end ou full stack.
-  </li>
+  </li><br>
   <li>🔮 Iniciei minha jornada de estudos transitando por diversas tecnologias, incluindo HTML, CSS e JavaScript para criação web, além de Node.js e React para desenvolvimento dinâmico. Também explorei o mundo do versionamento de código utilizando Git/GitHub, programação com Kotlin e a plataforma Android, e construção de interfaces responsivas com Bootstrap. Além disso, adquiri conhecimentos em áreas como Blockchain, Scrum, Design de Experiência do Usuário (UX), cibersegurança e programação em Java e Python.
-  </li>
+  </li><br>
   <li>🚀 Participei do Bootcamp sobre Nuvem AWS da Nexa Resources em parceria com a DIO e aprendi sobre os vários produtos de nuvem disponibilizados pela AWS e estou atualmente participando do Bootcamp Descubra a Nuvem AWS – LocalizaLabs.
-  </li>
+  </li><br>
   <li>Atualmente tenho me aprofundado no conhecimento sobre tecnologias Front-end.
-  </li>
+  </li><br>
   <li>🌌 Minhas paixões vão desde as estrelas no céu até a física que rege nosso universo. Quando não estou codificando, estou explorando trilhas de bike ou me perdendo em pensamentos filosóficos.
-  </li>
+  </li><br>
   <li>🍳 Não me limito apenas ao digital - na cozinha, também sou uma entusiasta criativa, criando pratos deliciosos.
-  </li>
+  </li><br>
   <li>📚 Devoradora de livros, amante de séries e documentários, estou sempre em busca de novos conhecimentos. A natureza é minha terapia, e a tecnologia é minha ferramenta para criar um mundo melhor.
-  </li>
+  </li><br>
   <li>🔮 Aluna do Reservatório de Dopamina, adoro organização e aprendi a usar o Notion para facilitar minha rotina diária de estudos, vida pessoal e profissional.
-  </li>
+  </li><br>
   <li>🎮 Do código ao controle, sou uma jogadora dedicada que encontra alegria em desafios eletrônicos.
-  </li>
+  </li><br>
   <li>🦕 Curiosa por natureza, tenho um carinho especial por dinossauros - aquelas criaturas misteriosas que um dia governaram a Terra, completam minha personalidade curiosa e exploratória.
-  </li>
+  </li><br>
   <li>Estou animada para conectar com a comunidade do GitHub e contribuir para projetos que alinhem minha paixão por tecnologia, saúde e criatividade. Vamos explorar e aprender juntos nessa jornada emocionante!
   </li>
 </ul>
