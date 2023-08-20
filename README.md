@@ -9,6 +9,7 @@
 <div align="center">
   <!-- Work Links -->
   <a href="https://web.dio.me/users/josypropy" target="_blank"><img src="https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-000?style=for-the-badge" target="_blank"></a>
+  <a href="https://discord.gg/josydev" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://github.com/JcG8Dev" target="_blank"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/josianecg/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:jcg8.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=white"
@@ -62,10 +63,4 @@
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 <br>
-</div>
-
-<br/><br/><br/><br/>
- 
-<div align="center">
-![Snake animation](https://github.com/JcG8Dev/JcG8Dev/blob/output/github-contribution-grid-snake.svg)
 </div>
