@@ -26,7 +26,7 @@
   </li><br>
   <li>🔭 Atualmente estou em transição de carreira para o Desenvolvimento, Cloud Computing.
   </li><br>
-  <li>Atualmente tenho me aprofundado no conhecimento sobre tecnologias em nuvem.
+  <li>Tenho me aprofundado no conhecimento sobre tecnologias em nuvem.
   </li><br>
   <li>🌌 Minhas paixões vão desde as estrelas no céu até a física que rege nosso universo. Curiosa desde sempre, quando não estou estudando, estou pedalando ou jogando video game.
   </li><br>
