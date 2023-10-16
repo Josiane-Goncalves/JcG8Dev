@@ -24,13 +24,9 @@
 <ul align="left">
   <li>👋 Olá! Sou a Josy, uma entusiasta da área de saúde em busca de novos horizontes na tecnologia e desenvolvimento. Minha jornada começou como Técnico em Enfermagem, onde adquiri habilidades valiosas em cuidados de saúde e engenharia clínica.
   </li><br>
-  <li>🔭 Atualmente estou em transição de carreira para o Desenvolvimento de Software Web backend, front-end ou full stack.
+  <li>🔭 Atualmente estou em transição de carreira para o Desenvolvimento, Cloud Computing.
   </li><br>
-  <li>🔮 Iniciei minha jornada de estudos transitando por diversas tecnologias, incluindo HTML, CSS e JavaScript para criação web, além de Node.js e React para desenvolvimento dinâmico. Também explorei o mundo do versionamento de código utilizando Git/GitHub, programação com Kotlin e a plataforma Android, e construção de interfaces responsivas com Bootstrap. Além disso, adquiri conhecimentos em áreas como Blockchain, Scrum, Design de Experiência do Usuário (UX), cibersegurança e programação em Java e Python.
-  </li><br>
-  <li>🚀 Participei do Bootcamp sobre Nuvem AWS da Nexa Resources em parceria com a DIO e aprendi sobre os vários produtos de nuvem disponibilizados pela AWS e estou atualmente participando do Bootcamp Descubra a Nuvem AWS – LocalizaLabs.
-  </li><br>
-  <li>Atualmente tenho me aprofundado no conhecimento sobre tecnologias Front-end.
+  <li>Atualmente tenho me aprofundado no conhecimento sobre tecnologias em nuvem.
   </li><br>
   <li>🌌 Minhas paixões vão desde as estrelas no céu até a física que rege nosso universo. Quando não estou codificando, estou explorando trilhas de bike ou me perdendo em pensamentos filosóficos.
   </li><br>
