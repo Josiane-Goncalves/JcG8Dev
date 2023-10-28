@@ -22,11 +22,9 @@
 </div><br>
 
 <ul align="left">
-  <li>👋 Olá! Sou a Josy, uma profissional da área de saúde em busca de novos horizontes na tecnologia e desenvolvimento. Minha jornada começou como Técnico em Enfermagem, onde adquiri habilidades valiosas em cuidados de saúde e experiência em engenharia clínica.
+  <li>👋 Olá, eu sou Josiane, uma profissional de saúde em constante evolução, empenhada em aprender e crescer para realizar uma transição de carreira no mundo da tecnologia.
   </li><br>
-  <li>🔭 Atualmente estou em transição de carreira para o Desenvolvimento, Cloud Computing.
-  </li><br>
-  <li>Tenho me aprofundado no conhecimento sobre tecnologias em nuvem.
+  <li>🔭Enquanto continuo meu trabalho no setor de saúde, estou trilhando um novo caminho. Estou dedicando meu tempo ao aprendizado autodidata, explorando o fascinante mundo da Computação em Nuvem.
   </li><br>
   <li>🌌 Minhas paixões vão desde as estrelas no céu até a física que rege nosso universo. Curiosa desde sempre, quando não estou estudando, estou pedalando ou jogando video game.
   </li><br>
@@ -36,7 +34,7 @@
   </li><br>
   <li>🎈 Aluna do Reservatório de Dopamina 🎈, adoro organização e aprendi a usar o Notion para facilitar minha rotina diária de estudos, vida pessoal e profissional.
   </li><br>
-  <li>🦕 Apaixonada pela liberdade e pela natureza, tenho um carinho especial por dinossauros - aquelas criaturas misteriosas que um dia governaram a Terra, completam minha personalidade curiosa e exploratória.
+  <li>📚 Aprendizado Contínuo: estou constantemente buscando aprimorar meu conhecimento e habilidades. Atualmente, estou me dedicando a cursos na DIO, Udemy e participando do programa AWS Skill Builder. Recentemente, conquistei uma oportunidade incrível ao ser selecionado para estudar na Proz - Talento Cloud, onde estou me preparando para obter minha primeira certificação AWS Practitioner.
   </li><br>
 </ul>
 
@@ -59,9 +57,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=blue)
-![Kotlin](https://img.shields.io/badge/Kotlin-000?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=C3002F)
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 <br>
