@@ -24,18 +24,8 @@
 </div><br>
 
 <ul align="left">
-  <li>👋 Olá, eu sou Josy profissional de saúde, empenhada em aprender e crescer para realizar uma transição de carreira no mundo da tecnologia.
+  <li>👋 Olá, eu sou Josiane! Estudante de Análise e Desenvolvimento de Sistemas, realizando cursos voltados para aa área de Cloud e DevOps.
   </li><br>
-  <li>🔭 Explorando Novos Horizontes: Enquanto continuo minha jornada no setor de saúde, estou trilhando um caminho fascinante: a Computação em Nuvem e a Inteligência Artificial. 🌐🤖
-  </li><br>
-  <li>🌌 Curiosa por Natureza: Minhas paixões vão desde as estrelas no céu até a física que rege nosso universo. Curiosa desde sempre, gosto de estudar, cozinhar, pedalar e jogar video game.
-  </li><br>
-  <li>📚 Sede de Conhecimento: Amante de livros, séries e documentários, estou sempre em busca de novos aprendizados. A natureza é minha terapia, e a tecnologia, minha ferramenta para moldar um mundo melhor. 🌿💡
-  </li><br>
-  <li>🎈 Aluna do Reservatório de Dopamina 🎈, adoro organização e aprendi a usar o Notion para facilitar minha rotina diária de estudos, vida pessoal e profissional.
-  </li><br>
-  <li>💪 Aprendizado Contínuo: Recentemente, finalizei o curso de Introdução ao Front-end na Proz e estou ansiosa para aplicar esse conhecimento. Minha jornada na Computação em Nuvem e Inteligência Artificial continua, e estou pronta para desafios cada vez maiores. 🚀
-
   </li><br>
 </ul>
 
