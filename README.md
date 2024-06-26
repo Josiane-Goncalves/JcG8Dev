@@ -17,17 +17,17 @@
 
 <h1 align="center"> ⭐️ Sobre mim </h1>
 
+<ul align="left">
+  <li>👋 Olá, eu sou Josiane! Estudante de Análise e Desenvolvimento de Sistemas, realizando cursos voltados para a área de Cloud e DevOps.
+  </li><br>
+  </li><br>
+</ul>
+
 <div align="center">
   <b>“Existe uma teoria que diz que, se um dia alguém descobrir exatamente para que serve o Universo e por que ele está aqui, ele desaparecerá instantaneamente e será substituído por algo ainda mais estranho e inexplicável. Existe uma segunda teoria que diz que isso já aconteceu. -O Guia do Mochileiro das Galáxias”
 
 </b>
 </div><br>
-
-<ul align="left">
-  <li>👋 Olá, eu sou Josiane! Estudante de Análise e Desenvolvimento de Sistemas, realizando cursos voltados para aa área de Cloud e DevOps.
-  </li><br>
-  </li><br>
-</ul>
 
 <div align="center">
   <table>
