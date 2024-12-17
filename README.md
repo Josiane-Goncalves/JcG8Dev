@@ -48,7 +48,7 @@ Vamos conectar e criar juntos! 🤝
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![JSON](https://img.shields.io/badge/dynamic/json)
-![Node.JS](https://img.shields.io/node/v/:packageName)
+![Node.JS](#5FA04E)
 ![Bootstrap](https://img.shields.io/bower/l/:packageName)
 ![AWS](https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
