@@ -43,14 +43,10 @@ Vamos conectar e criar juntos! 🤝
 
 ## ⭐️ Hard Skills
 <div align="center">
-<img alt="Bower Version" src="https://img.shields.io/bower/v/:packageName">
-
+  
 ![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![JSON](https://img.shields.io/badge/dynamic/json)
-![Node.JS](https://img.shields.io/npm/last-update/:packageName/:tag)
-![Bootstrap](https://img.shields.io/bower/l/:packageName)
 ![AWS](https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
