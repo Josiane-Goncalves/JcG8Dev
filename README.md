@@ -9,10 +9,10 @@
 <div align="center">
   <!-- Work Links -->
   <a href="https://www.dio.me/users/josypropy" target="_blank"><img src="https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-000?style=for-the-badge" target="_blank"></a>
-  <a href="https://github.com/JcG8Dev" target="_blank"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/josianecg/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:jcg8.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=white"
-  <a href = "https://www.instagram.com/jcg8.dev" target="_blank"><img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram"></a>
+  <a href="https://github.com/Josiane-Goncalves" target="_blank"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/josianecgoncalves" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:josianegoncalves2024@outlook.com"><img src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=white"
+  <a href = "https://www.instagram.com/josyc.goncalves" target="_blank"><img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram"></a>
 </a>
 
 <h1 align="center"> ⭐️ Sobre mim </h1>
