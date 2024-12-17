@@ -49,7 +49,7 @@ Vamos conectar e criar juntos! 🤝
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-000?style=for-the-badge&logo=bootstrap&logoColor=#8F00FF)
 ![Node.JS](https://img.shields.io/badge/node.js-000?style=for-the-badge&logo=node.js&logoColor=#008000)
-![AWS](https://img.shields.io/badge/aws-cdk-000?style=for-the-badge&logo=aws-cdk&logoColor=#FFA500)
+![AWS](https://img.shields.io/badge/aws.cdk-000?style=for-the-badge&logo=aws.cdk&logoColor=#FFA500)
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://docs.github.com/)
 <br>
